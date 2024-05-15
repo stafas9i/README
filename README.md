@@ -1,9 +1,1 @@
-- Hi, I’m Mustafa
-- I’m interested in learning new technical skills
-- I’m currently learning c++
-- I'm originally from Texas
-- I'm a Junior in Electrical Engineering
-- I chose my major because it is challenging and rewarding
-- A fun fact about me is:  I like to work on cars
-- What do I want to learn from EE 205?  I want to enhance my programming skills
-- A book or movie I'd recommend is:  a MIND for NUMBERS by Barbara Oakley
+
